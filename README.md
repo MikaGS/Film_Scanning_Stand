@@ -22,8 +22,8 @@ Stand is working, automation with steppers, etc. in progress
 ## Documentation
 
 - [Build Guide](docs/build-guide.md)
-- [Camera Setup](docs/camera-setup.md)
-- [Calibration](docs/calibration.md)
+- [Camera Setup and Calibration](docs/camera-setup.md)
+- [Film Holders](docs/film-holders.md)
 - [Parts List](bom/parts-list.md)
 
 ## License
