@@ -1,5 +1,8 @@
 # Film Scanning Stand
 
+<img width="1317" height="1755" alt="20260518_175946" src="https://github.com/user-attachments/assets/3d65ea9f-49f6-4ebb-906e-d4be81f17319" />
+
+
 A modular DIY film scanning stand for digitizing 35mm and medium format negatives using a mirrorless camera.
 
 The system uses aluminium extrusions, a linear rail, leveling parts and a camera carrier. It is designed for repeatable alignment, precise camera height adjustment, and high-resolution scans of larger formats such as 6x7 and 6x12. 
