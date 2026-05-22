@@ -1,0 +1,74 @@
+# Parts List
+
+This list contains the main mechanical and printed parts required to build the modular film scanning stand.
+
+Quantities and lengths may depend on the final CAD model and the desired scanning height.
+
+## Main Components
+
+| Part | Quantity | Notes |
+|---|---:|---|
+| Aluminium extrusion | as needed | Cut to the desired length |
+| Linear rail, 300 mm | 1 | Mini linear rail with 2 carriage blocks |
+| MGN12H carriage blocks | 2 | Usually included with the rail |
+| Lead screw | 1 | Length depends on the CAD model |
+| Lead screw nut | 2 | for precise movement |
+| Lead screw coupling | 1 | For connecting the stepper motor to the lead screw |
+| Bearing for lead screw | 1 | Used in the top bearing mount |
+| Stepper motor | 1 | For height adjustment and holding force |
+| Camera leveling plate | 1 | For fine camera alignment |
+| Panorama head / panorama plate | optional | Useful for better leveling and rotational alignment |
+| Arca-Swiss quick release clamp | optional | For easier camera mounting and removal |
+| Base plate | 1 | Siebdruckplatte or another stable board |
+| Black acrylic sheet | optional | For laser-cut covers, panels or finishing parts |
+
+## Fasteners and Hardware
+
+| Part | Quantity | Notes |
+|---|---:|---|
+| M3 screws | as needed | Used for linear rail and smaller printed parts |
+| M4 screws | as needed | Used for medium-strength printed connections |
+| M5 screws | as needed | Used for adapters to aluminium extrusion |
+| M5 slot nuts / T-nuts | as needed | For mounting printed adapters to the aluminium extrusion |
+| M5 × 6 mm wafer head screws | as needed | Low-profile mounting screws |
+| M5 × 10 mm wafer head screws | as needed | For extrusion adapters or thicker printed parts |
+| M4 × 8 mm wafer head screws | as needed | For printed parts or accessory mounting |
+| 3/8" camera screws | as needed | For tripod plates, leveling plates or camera accessories |
+| Heat-set inserts, M3/M4/M5 | as needed | I used short threaded inserts, e.g. CNC Kitchen inserts |
+
+## 3D Printing
+
+| Material | Notes |
+|---|---|
+| PETG | Easy to print, good general choice |
+| ABS / ASA | Better heat resistance, harder to print |
+| Extrudr GreenTEC Pro CF | Used for this build; stiff, carbon-filled material |
+| Other stiff filament | Can be used if dimensions and strength are suitable |
+
+## Printed Parts
+
+| Printed Part | Notes |
+|---|---|
+| Linear rail adapters | Connect the rail to the aluminium extrusion |
+| Top bearing mount | Holds the top lead screw bearing |
+| Top bearing lid | Secures the bearing in place |
+| Bottom support | Lower support for the lead screw / extrusion |
+| Camera carrier, first half | Mounts to the linear rail carriages |
+| Camera carrier, second half | Holds the leveling plate / camera mount |
+| Optional covers or spacers | Depending on the final CAD design |
+
+## Optional Laser-Cut Parts
+
+| Part | Material | Notes |
+|---|---|---|
+| Side panels | Black acrylic | Optional visual or structural finishing parts |
+| Covers | Black acrylic | Can be used to hide mechanics or improve appearance |
+| Alignment plates | Acrylic or plywood | Optional aids for assembly and calibration |
+
+## Notes
+
+Check the final CAD model before ordering the lead screw, aluminium extrusion and acrylic parts.
+
+Some screw lengths may need to be adjusted depending on the printed part thickness, insert depth and accessory stack-up.
+
+For the base plate, a stable and flat material is recommended. A Siebdruckplatte or another rigid wooden board works well.
